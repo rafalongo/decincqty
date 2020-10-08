@@ -11,8 +11,12 @@
     },
     "type": "magento2-module",
     "version": "0.1.0",
-    "license": [
-        "Rafalongo Inc."
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Longo",
+            "email": "rafalongo@gmail.com"
+        }
     ],
     "autoload": {
         "files": [
