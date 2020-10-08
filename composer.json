@@ -11,7 +11,9 @@
     },
     "type": "magento2-module",
     "version": "0.1.0",
-    "license": "Rafalong Inc.",
+    "license": [
+        "Rafalongo Inc."
+    ],
     "autoload": {
         "files": [
             "registration.php"
